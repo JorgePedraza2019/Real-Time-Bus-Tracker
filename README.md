@@ -1,4 +1,4 @@
-# Real Time Bus Tracker
+# Project title: Real Time Bus Tracker
 ## Description of the project:
 What the project does is track the bus automatically when the track button is clicked. This allows the coordinates of the bus to be updated in real time to enable accurate tracking. The improvement that was made was in the style of the map since the satellite view map was placed.
 
